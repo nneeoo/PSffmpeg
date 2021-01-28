@@ -1,5 +1,5 @@
 # PSffmpeg
-![headimg](Assets/Head.png "ExampleUsage")
+![headimg](Assets/head.png "ExampleUsage")
 
 The **PSffmpeg** is CLI extention over the top of FFMPEG to make your life easier.
 
